@@ -1,0 +1,10 @@
+UML Diagram
+왜 UML diagram을 사용하는지?
+단위 통일 이런저런얘기
+UML 사용했을 때 기대효과
+수치와 도표를 이용하여
+UML의 종류소개와 그중에서 Paceage
+정의
+각 모듈들의 설명
+기대효과 왜 좋은지
+협업을 위해 우리가 한 노력 GITHUB google doc
